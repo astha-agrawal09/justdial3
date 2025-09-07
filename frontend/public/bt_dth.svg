@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="94" height="94" viewBox="0 0 94 94">
+    <defs>
+        <clipPath id="83fbbgueua">
+            <path data-name="Path 140258" d="M601 208h1.338v1.361H601z" transform="translate(-601 -208)" style="fill:#3d4060"/>
+        </clipPath>
+    </defs>
+    <g data-name="Rectangle 70172" style="fill:#fff;stroke:none;stroke-width:.5px">
+        <rect width="94" height="94" rx="14" style="stroke:none"/>
+        <rect x=".25" y=".25" width="93.5" height="93.5" rx="13.75" style="fill:none"/>
+    </g>
+    <g data-name="Group 129468" transform="translate(21.903 23.323)">
+        <circle data-name="Ellipse 2103" cx="3.65" cy="3.65" r="3.65" transform="translate(37.418 .913)" style="fill:#60b7fc"/>
+        <rect data-name="Rectangle 69896" width="47.456" height="18.252" rx="6" transform="translate(.913 17.34)" style="fill:#dedede"/>
+        <rect data-name="Rectangle 69897" width="15.515" height="4.563" rx="2.282" transform="translate(25.554 24.641)" style="fill:#fedf37"/>
+        <path data-name="Path 140256" d="M198.34 184.79a4.667 4.667 0 0 0-1.18 9.178v7.39h-32.066a7.271 7.271 0 0 0-7.249 7.275v5.531a7.271 7.271 0 0 0 7.249 7.276H199.5a7.271 7.271 0 0 0 7.249-7.276v-5.531a7.269 7.269 0 0 0-7.177-7.271v-7.408a4.668 4.668 0 0 0-1.236-9.164zm0 2.4a2.267 2.267 0 1 1-2.258 2.267 2.244 2.244 0 0 1 2.258-2.265zm-33.245 16.591H199.5a4.842 4.842 0 0 1 4.833 4.85v5.531a4.842 4.842 0 0 1-4.833 4.851h-34.405a4.842 4.842 0 0 1-4.833-4.851v-5.531a4.842 4.842 0 0 1 4.833-4.848zm21.35 4.286a3.868 3.868 0 0 0 0 7.735h9.835a3.868 3.868 0 0 0 0-7.735zm0 2.4h9.835a1.467 1.467 0 0 1 0 2.935h-9.835a1.467 1.467 0 0 1 0-2.935zm-21.414.078a1.2 1.2 0 1 0 .845 2.047 1.2 1.2 0 0 0-.845-2.047zm4.206 0a1.2 1.2 0 1 0 .845 2.047 1.2 1.2 0 0 0-.845-2.047zm4.206 0a1.2 1.2 0 1 0 .845 2.047 1.2 1.2 0 0 0-.845-2.047zm-14.507 12.911a1.2 1.2 0 1 0 0 2.4h46.514a1.2 1.2 0 1 0 0-2.4z" transform="translate(-157.687 -184.79)" style="fill:#3d4060"/>
+        <g data-name="Group 128479" transform="translate(49.769 2.632)" style="clip-path:url(#83fbbgueua)">
+            <path data-name="Path 140257" d="m601.78 209.679 2.089-1.206" transform="translate(-601.692 -208.419)" style="fill:#3d4060"/>
+        </g>
+    </g>
+</svg>
