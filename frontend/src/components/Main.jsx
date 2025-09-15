@@ -620,7 +620,7 @@ export default function CategorySearchSection() {
             background: "#fff",
             display: "flex",
             flexDirection: "column",
-            gap: 4,
+            gap: 3,
           }}
         >
           {/* Top Category (Bills & Recharge) */}

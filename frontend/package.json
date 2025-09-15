@@ -21,6 +21,7 @@
     "react-dom": "^19.1.1",
     "react-i18next": "^15.7.3",
     "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^7.9.1",
     "react-slick": "^0.31.0",
     "slick-carousel": "^1.8.1"
   },

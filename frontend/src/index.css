@@ -10,3 +10,17 @@ html, body, #root {
   width: 100%;
   font-family: 'Roboto', sans-serif;
 }
+
+.category-container {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 columns */
+  gap: 20px; /* space between boxes */
+  margin: 20px 0;
+}
+
+.category-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 16px;
+  background: #fff;
+}
